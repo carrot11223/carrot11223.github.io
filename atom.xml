@@ -6,7 +6,7 @@
   <link href="https://carrot11223.github.io/atom.xml" rel="self"/>
   
   <link href="https://carrot11223.github.io/"/>
-  <updated>2023-01-28T11:31:42.497Z</updated>
+  <updated>2023-01-28T12:20:34.041Z</updated>
   <id>https://carrot11223.github.io/</id>
   
   <author>
@@ -17,18 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://carrot11223.github.io/2023/01/28/hello-world/"/>
-    <id>https://carrot11223.github.io/2023/01/28/hello-world/</id>
-    <published>2023-01-28T11:31:42.497Z</published>
-    <updated>2023-01-28T11:31:42.497Z</updated>
+    <title></title>
+    <link href="https://carrot11223.github.io/2023/01/28/websecurity/"/>
+    <id>https://carrot11223.github.io/2023/01/28/websecurity/</id>
+    <published>2023-01-28T12:18:13.682Z</published>
+    <updated>2023-01-28T12:20:34.041Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;p&gt;生成目录的方式 [TOC]+ 回车&lt;/p&gt;
+&lt;h1 id=&quot;网络安全导论&quot;&gt;&lt;a href=&quot;#网络安全导论&quot; class=&quot;headerlink&quot; title=&quot;网络安全导论&quot;&gt;&lt;/a&gt;网络安全导论&lt;/h1&gt;&lt;h2 id=&quot;PTES标准&quot;&gt;&lt;a</summary>
         
       
     
